@@ -6,6 +6,4 @@ published: true
 
 ## First Post
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-
+![_config.yml]({{ site.baseurl }}/images/1.png)
