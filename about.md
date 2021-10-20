@@ -2,14 +2,19 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Heyy!!
+Anyways I am Mohammed Adil. I am currently working as a 'Design and Verification Engineer'. 
 
-### More Information
+Well let's talk about my personality :)
+I am a sensitive, understanding and supportive person.I mostly think of others before myself.I think I'm  friendly and approachable, if you know me you might agree.
 
-A place to include any other types of information that you'd like to include about yourself.
+I love keeping some secrets, its good to have secrets.
+
+Will be writing more.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[md.adil3495@gmail.com](mailto:md.adil3495@gmail.com)
