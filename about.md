@@ -5,6 +5,8 @@ permalink: /about/
 published: true
 ---
 
+![curious_adil](https://github.com/Adil3495/adil3495.github.io/blob/master/images/Curious_Adil.PNG?raw=true)
+
 Heyy!!
 Anyways I am Mohammed Adil. I am currently working as a 'Design and Verification Engineer'. 
 
