@@ -1,9 +1,9 @@
 ---
 published: true
 ---
+
 ###### Notes
 
-![rose_fell_png1](https://github.com/Adil3495/adil3495.github.io/blob/master/images/rose_fell_property_png1.PNG?raw=true)
 
  - Failures in antecedent are called vacous success.
  - Two ways to combine ancedent
@@ -70,3 +70,5 @@ published: true
 	label1: assert property(p2(sig1,sig2));
 	label2: assert property(p2(enable,control));
 ```
+
+![rose_fell_png1](https://github.com/Adil3495/adil3495.github.io/blob/master/images/rose_fell_property_png1.PNG?raw=true)
