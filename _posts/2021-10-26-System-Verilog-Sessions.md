@@ -2,7 +2,11 @@
 published: true
 ---
 #### Day 1: Verilog Self-Checking testbench of a 2:1 mux. (*Sorry for the audio)
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k7d0UMBCDHLxx4xjzNV" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6CuLnucYW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+###### Relating verilog testbench constructs with SystemVerilog and UVM for better understanding.
 
 #### Day 1: Day 1.2: Verilog Self-Checking testbench of a 2:1 mux. (Continue) 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k3HBIIJ9jxDIZBxjzON" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aSsHl2Jm3bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Day 2: Dff Self checking TB in Verilog and Why interface is important ?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Iy2BU3-aes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
