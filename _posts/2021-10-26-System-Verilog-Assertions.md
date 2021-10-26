@@ -8,7 +8,7 @@ published: true
 	`ifdef M1
 		sec == 0 && $past(min) != 59
 	`endif
-	`ifdef M1
+	`ifdef M2
 		sec == 0
 		##0 			// in the same cycle 
 		$past(min) != 59
