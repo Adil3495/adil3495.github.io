@@ -54,4 +54,17 @@ published: true
 	  s1 intersect s2 
 	  s1 within s2
 	  s2 within s1
- ```  
+ ```
+###### Property Example
+```
+	property p2(x,y);
+		@(posedge clk)
+		$rose(x)
+		|->
+		$fell(y)
+	endproperty
+	
+	label1: assert property(p2(sig1,sig2));
+	label2: assert property(p2(enable,control));
+```
+![rose_fell_png1](https://github.com/Adil3495/adil3495.github.io/blob/master/images/rose_fell_property_png1.PNG?raw=true)
