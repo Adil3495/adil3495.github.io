@@ -2,10 +2,8 @@
 published: true
 ---
 ###### Notes
-[Blank_space](https://www.github.com)
  - Failures in antecedent are called vacous success.
  - Two ways to combine ancedent
- ```
 	`ifdef M1
 		sec == 0 && $past(min) != 59
 	`endif
@@ -14,8 +12,9 @@ published: true
 		##0 			// in the same cycle 
 		$past(min) != 59
 	`endif
- ```
+    
  - Assertions are always overlapping. It can be avoided by $rose(). It is used to avoid multiple triggering of assertion.
+ 
  ```
 	1)  x 
 		|->
