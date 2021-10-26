@@ -19,4 +19,4 @@ Will be writing more.
 
 ### Contact me
 
-[md.adil3495@gmail.com](mailto:md.adil3495@gmail.com)
+[adil.curious@gmail.com](mailto:adil.curious@gmail.com)
