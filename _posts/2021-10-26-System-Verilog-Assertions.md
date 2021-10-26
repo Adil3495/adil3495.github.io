@@ -1,7 +1,8 @@
 ---
 published: true
 ---
-###### Note
+###### Notes
+[Blank_space](https://www.github.com)
  - Failures in antecedent are called vacous success.
  - Two ways to combine ancedent
  ```
