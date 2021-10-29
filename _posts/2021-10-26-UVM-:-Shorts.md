@@ -7,7 +7,7 @@ published: true
 [![uvm_copy_clone](https://github.com/Adil3495/adil3495.github.io/blob/master/images/eda_logo.png?raw=true)](https://edaplayground.com/x/G9qS)
 
 ###### UVM | SV : Singleton Class and (Call task inside a function) *hack
-    (Video will be uploaded soon)
+> Video will be uploaded soon
 
 
 ###### UVM: Hello World
