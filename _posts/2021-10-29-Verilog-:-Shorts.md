@@ -4,9 +4,15 @@ published: true
 ###### Verilog Stratified Event Queue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FExnMzqH_Wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ###### Verilog Compilation using open source tools | iverilog | gtkwave | yosys
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y3YJvkR-XR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 In this video we will see how to compile verilog files on linux environment using open source tools.
 `iverilog` is used to compile the `.v` file.
 `Gtkwave` is used to view the waveform.
 `Yosys` is used to view the synthesized version of the design file.
+
+
+###### Good Positive edge Detection Circuit Indicating for one clock pulse
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DV8X_fsI7mI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Design a good edge detection circuit. Using two D flip-flop, the output stays high for one clock pulse if the edge is detected, while using only one D flip-flop, we will get a small spike in the output for small duration duration.
