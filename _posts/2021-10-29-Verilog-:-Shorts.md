@@ -11,6 +11,14 @@ In this video we will see how to compile verilog files on linux environment usin
 `iverilog` is used to compile the `.v` file.
 `Gtkwave` is used to view the waveform.
 `Yosys` is used to view the synthesized version of the design file.
+###### commands
+ - iverilog -o tb tb.v
+ - vvp tb
+ - gtkwave test.vcd
+ - yosys
+ 	- yosys> read_verilog ha.v
+    - yosys> opt
+    - yosys> show
 
 
 ###### Good Positive edge Detection Circuit Indicating for one clock pulse
