@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 #### Digital Design on a piece of paper using vectored mux, adder and comparator (New approach)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g8I3lX3NaJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
