@@ -6,7 +6,7 @@ published: true
 
 [![uvm_copy_clone](https://github.com/Adil3495/adil3495.github.io/blob/master/images/eda_logo.png?raw=true)](https://edaplayground.com/x/G9qS)
 
-
+----------------------------------------------------------------------------------------
 #### UVM | SV : Pure virtual method and Abstract/Virtual class.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbYsc-CqTQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -19,11 +19,13 @@ published: true
 
 [![uvm_pure_methods](https://github.com/Adil3495/adil3495.github.io/blob/master/images/eda_logo.png?raw=true)](https://edaplayground.com/x/F9JV)
 
-
+-------------------------------------------------------------------------------------------
 #### UVM | SV : Singleton Class and (Call task inside a function) *hack
 > Video will be uploaded soon
 
-
+-------------------------------------------------------------------------------------------
 #### UVM: Hello World
 
 [![uvm_hello_world](https://github.com/Adil3495/adil3495.github.io/blob/master/images/eda_logo.png?raw=true)](https://edaplayground.com/x/CRTB)
+
+--------------------------------------------------------------------------------------------
