@@ -3,7 +3,6 @@ published: true
 ---
 
 #### Day 2: Dff Self checking TB in Verilog and Why interface is important ?
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Iy2BU3-aes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
