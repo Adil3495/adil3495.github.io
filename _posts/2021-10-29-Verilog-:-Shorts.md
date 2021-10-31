@@ -36,5 +36,6 @@ We will be designing three digital circuits on a piece of paper and than coding 
  - 4:2 MSB Priority Encoder.
  - Selecting Maximum and Minimum values from two n-bit numbers.
  - Generating next seconds for a watch.
+ -
 
 -----------------------------------------------------------------------
