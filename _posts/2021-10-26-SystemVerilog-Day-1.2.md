@@ -3,7 +3,6 @@ published: true
 ---
 
 #### Day 1: Day 1.2: Verilog Self-Checking testbench of a 2:1 mux. (Continue) 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aSsHl2Jm3bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
