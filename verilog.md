@@ -17,3 +17,5 @@
 [Digital Design on a piece of paper using vectored mux, adder and comparator (New approach)]({{site.baseurl}}/Digital-Design-on-a-piece-of-paper)
 
 -----------------------------------------------------------------------
+
+{% include disqus.html %}
