@@ -6,3 +6,4 @@ published: true
 
 We are working on it....
 
+{% include analytics.html %}
