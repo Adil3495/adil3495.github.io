@@ -8,7 +8,7 @@ published: true
  - First download the Lite verison from the [link](http://gestyy.com/epSGsV)
  - Select edition as "Lite" and
  - Select release as "20.1.1" (latest as of recording this video)
- ![modelsim_intall_1]({{site.baseurl}}/images/modelsim_install_1.png)
+ ![modelsim_install_1.PNG]({{site.baseurl}}/_posts/modelsim_install_1.PNG)
  - Then select "Individual Files" below and download "ModelSim-Intel FPGA Edition (includes Starter Edition"
  ![modelsim_intall_2]({{site.baseurl}}/modelsim_install_2.png)
  - Follow the installation process.
