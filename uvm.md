@@ -13,3 +13,6 @@
 #### UVM | SV : Singleton Class and (Call task inside a function) *hack
 > Video will be uploaded soon
 
+----------------------------------------------------------------------------------------
+
+{% include disqus.html %}
