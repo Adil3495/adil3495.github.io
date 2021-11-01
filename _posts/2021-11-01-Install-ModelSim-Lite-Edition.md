@@ -1,6 +1,11 @@
 ---
 published: true
 ---
+---
+published: true
+layout: pagelayout
+
+---
 #### Install ModelSim Intel FPGA edition for free (Windows 11/10)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/drvAa9gzD2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
