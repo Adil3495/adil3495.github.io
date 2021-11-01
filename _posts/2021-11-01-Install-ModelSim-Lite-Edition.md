@@ -8,9 +8,9 @@ published: true
  - First download the Lite verison from the [link](http://gestyy.com/epSGsV)
  - Select edition as "Lite" and
  - Select release as "20.1.1" (latest as of recording this video)
- ![modelsim_install_1.PNG]({{site.baseurl}}/_posts/modelsim_install_1.PNG)
+ ![modelsim_install_1.PNG](https://github.com/Adil3495/adil3495.github.io/blob/master/images/modelsim_install_1.PNG?raw=true)
  - Then select "Individual Files" below and download "ModelSim-Intel FPGA Edition (includes Starter Edition"
- ![modelsim_intall_2]({{site.baseurl}}/images/modelsim_install_2.png)
+ ![modelsim_intall_2](https://github.com/Adil3495/adil3495.github.io/blob/master/images/modelsim_install_2.PNG?raw=true)
  - Follow the installation process.
  
 ###### How to call the vsim from command line or powershell
