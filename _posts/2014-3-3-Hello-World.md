@@ -4,6 +4,19 @@ title: Hello World Post!
 published: false
 ---
 
+<pre data-line="7" class="line-numbers language-javascript"><code>&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://','ga');
+  
+  ga('create', '{% raw %}{{site.google_tracking_id}}{% endraw %}', 'auto'); 
+  ga('send', 'pageview');
+  
+&lt;/script&gt;
+</code></pre>
+
+
 ###### Important Links
 
  - Cutrated from
@@ -124,4 +137,3 @@ You can add data to the list, suggest categories and improve the usability of th
 * [Menta] (https://www.menta-efpga.com/)
 * [Flexlogix] (https://flex-logix.com/)
 * [Achronix] (https://www.achronix.com/)
-
