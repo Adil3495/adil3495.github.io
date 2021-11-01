@@ -15,6 +15,7 @@ layout: pagelayout
  - Select release as "20.1.1" (latest as of recording this video)
  ![modelsim_intall_1]({{site.baseurl}}/images/modelsim_install_1.png)
  - Then select "Individual Files" below and download "ModelSim-Intel FPGA Edition (includes Starter Edition"
+ ![modelsim_intall_2]({{site.baseurl}}/modelsim_install_2.png)
  - Follow the installation process.
  
 ###### How to call the vsim from command line or powershell
