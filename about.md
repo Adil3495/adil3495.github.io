@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-![Curious_Adil.PNG]({{site.baseurl}}/Curious_Adil.PNG)
+![Curious_Adil.PNG](https://github.com/Adil3495/adil3495.github.io/blob/master/images/Curious_Adil.PNG?raw=true)
 
 
 Heyy!!
