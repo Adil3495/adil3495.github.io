@@ -5,7 +5,8 @@ permalink: /about/
 published: true
 ---
 
-![curious_adil]({{site.baseurl}}/images/1.png)
+![Curious_Adil.PNG]({{site.baseurl}}/Curious_Adil.PNG)
+
 
 Heyy!!
 I am Mohammed Adil. I am currently working as a 'RTL Design and Verification Engineer'. 
