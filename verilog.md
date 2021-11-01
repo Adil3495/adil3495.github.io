@@ -1,3 +1,7 @@
+[Install ModelSim Intel FPGA edition for free (Windows 11/10)]({{site.baseurl}}/Install-ModelSim-Lite-Edition)
+
+-----------------------------------------------------------------------
+
 [Verilog Stratified Event Queue]({{site.baseurl}}/Verilog-Simulation-Semantics)
 
 -------------------------------------------------------------
@@ -17,5 +21,6 @@
 [Digital Design on a piece of paper using vectored mux, adder and comparator (New approach)]({{site.baseurl}}/Digital-Design-on-a-piece-of-paper)
 
 -----------------------------------------------------------------------
+
 
 {% include disqus.html %}
