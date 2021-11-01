@@ -10,6 +10,6 @@ published: true
  - A virtual method in an abstract class may be declared as a prototype without providing an implementation. This is called as pure together without providing a method body.
  - A extended subclass may provide an implementation by overriding the pure virtual method with a virtual method having a method body.
     
-[![uvm_pure_methods](https://github.com/Adil3495/adil3495.github.io/blob/master/images/eda_logo.png?raw=true)](http://gestyy.com/epSQFo){:target="_blank"}
+[![uvm_pure_methods](https://github.com/Adil3495/adil3495.github.io/blob/master/images/eda_logo.png?raw=true){:target="_blank"}](http://gestyy.com/epSQFo)
 
 -------------------------------------------------------------------------------------------
