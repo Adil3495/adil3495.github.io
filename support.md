@@ -5,3 +5,5 @@ published: true
 ---
 
 We are working on it....
+
+{% include disqus.html %}
