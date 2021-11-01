@@ -11,3 +11,5 @@
 [System Verilog Assertions (Notes)]({{site.baseurl}}/System-Verilog-Assertions)
 
 ----------------------------------------------------------------------------------------------
+
+{% include disqus.html %}
