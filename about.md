@@ -20,4 +20,4 @@ It is our intent to provide a wiki of sorts, where users of any skill level can 
 
 ### Contact me
 
-[Subscribe](https://adil3495.github.io/contact/)
+[Subscribe]({{site.baseurl}}/contact/)
