@@ -21,4 +21,5 @@ It is our intent to provide a wiki of sorts, where users of any skill level can 
 ### Contact me
 
 [Subscribe]({{site.baseurl}}/contact/)
+
 {% include analytics.html %}
