@@ -7,6 +7,6 @@ published: true
 
 ###### Relating verilog testbench constructs with SystemVerilog and UVM for better understanding.
 
-[![Day_1_code](https://github.com/Adil3495/adil3495.github.io/blob/master/images/eda_logo.png?raw=true)](http://gestyy.com/epSQJi)
+[![Day_1_code](https://github.com/Adil3495/adil3495.github.io/blob/master/images/eda_logo.png?raw=true)](https://edaplayground.com/x/vxLT)
 
 ---------------------------------------------------------------------------------------------
