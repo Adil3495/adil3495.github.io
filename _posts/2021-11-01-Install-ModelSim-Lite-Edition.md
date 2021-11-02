@@ -5,7 +5,7 @@ published: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/drvAa9gzD2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### Install ModelSim Intel FPGA edition (Lite) without license for free.
- - First download the Lite verison from the [link](http://gestyy.com/epSGsV)
+ - First download the Lite verison from the [link](https://fpgasoftware.intel.com/20.1.1/?edition=lite&platform=windows)
  - Select edition as "Lite" and
  - Select release as "20.1.1" (latest as of recording this video)
  ![modelsim_install_1.PNG](https://github.com/Adil3495/adil3495.github.io/blob/master/images/modelsim_install_1.PNG?raw=true)
